@@ -1,0 +1,10 @@
+main: net.louiml.basicplugin.BasicPlugin
+name: basicplugin
+version: 1.0.0
+authors: [louiml.net]
+website: https://louiml.net
+api-version: 1.16
+
+commands:
+  louihelloworld:
+    permission: louihelloworld.use
